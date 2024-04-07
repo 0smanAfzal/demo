@@ -1,4 +1,4 @@
 # demo
 my first repository
 <br>
-author: Usman Afzal
+author:Muhammad Usman Afzal
